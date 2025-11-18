@@ -26,13 +26,6 @@ Shopalia es la **primera plataforma nativa de Telegram** que permite a cualquier
 - **Creator Economy**: €125B+ buscando monetización directa
 - **Telegram Business**: Lanzamiento oficial 2024, empresas migrando masivamente
 
-### **⚡ Ventana de Oportunidad Única:**
-- **24+ meses** de ventaja técnica sobre competencia
-- **Zero competidores** nativos de Telegram a nivel enterprise
-- **TON Partnership Program** acceso directo con Telegram
-- **Network effects** se aceleran exponencialmente en comunidades
-- **Community fatigue** en Discord/Facebook buscando alternativas
-
 ---
 
 ## 🎯 **PARA COMMUNITIES: TU TIENDA EN 5 MINUTOS**
